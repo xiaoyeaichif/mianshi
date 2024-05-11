@@ -24,7 +24,7 @@ void chafen_(int l, int r, int c)
 
 
 
-int main()
+int main02()
 {
     int n, m, q;
     cin >> n >> m >> q;
